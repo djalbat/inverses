@@ -1,4 +1,4 @@
-# Polynomials
+# Inverses
 
 Inverses for [Occam](https://occam.science).
 
