@@ -1,6 +1,6 @@
 
 
-                               term  ::=  "𝘪𝘯𝘷𝘦𝘳𝘴𝘦" "of" argument
+                               term  ::=  "𝘪𝘯𝘷𝘦𝘳𝘴𝘦" "𝘰𝘧" argument
 
                                        |  argument<NO_WHITESPACE>"⁻¹"       (2) 
 
